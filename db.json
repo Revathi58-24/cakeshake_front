@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "id": "242a",
+      "name": "mango",
+      "imageUrl": "https://images.squarespace-cdn.com/content/v1/5e5ee5eb9f571251433dacbf/1648950271233-LDVXSRAD73B5F44EG5R1/IMG_2369+%281%29.jpg?format=1000w"
+    },
+    {
+      "name": "vennila",
+      "imageUrl": "https://sweet-treasures.com/cdn/shop/files/IMG_83192.jpg?v=1707110332&width=480",
+      "id": "c05c"
+    },
+    {
+      "id": "22e0",
+      "name": "revathi",
+      "email": "reva@gmail.com",
+      "password": "123456",
+      "confirmPassword": "123456"
+    },
+    {
+      "id": "a07d",
+      "name": "chococake",
+      "imageUrl": "https://www.fnp.com/images/pr/l/v20221205202750/chocolate-rose-designer-cake-1-kg-eggless_1.jpg"
+    }
+  ]
+}
